@@ -1,0 +1,96 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./Images/qlpDjy.jpg);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.bone1{
+    width: 200px;
+    transform: rotate(90deg);
+}
+
+.bone2{
+    width: 200px;
+    float: right;
+}
+
+.titregénéral{
+    color: cyan;
+    text-align: center;
+    font-size: 130px;
+}
+
+.pgénéral{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.history{
+    color: green;
+    font-size: 70px;
+}
+
+.personnality{
+    color: blue;
+    font-size: 70px;
+}
+
+.p{
+    color: white;
+    font-size: 25px;
+}
+
+.pacifist{
+    width: 300px;
+}
+
+.vidéo{
+    border: 5px solid cyan
+}
+
+.génocide{
+    float: right;
+    width: 300px;
+}
+
+.capacités{
+    color: red;
+    font-size: 70px;
+}
+
+.faiblesses{
+    color: yellow;
+    font-size: 70px;
+}
+
+.karma{
+    width: 700px ;
+}
+
+.blasters{
+    width: 700px ;
+    float: right;
+}
+
+.Anecdotes{
+    color: brown;
+    font-size: 70px;
+}
+
+.bone3{
+    width: 200px;
+}
+
+.bone4{
+    width: 200px;
+    float: right;
+    transform: rotate(90deg);
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
